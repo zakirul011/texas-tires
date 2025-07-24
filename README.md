@@ -4,13 +4,13 @@ frontend Project | Multiple versions of main homepage and configuration applicat
 
 
 ## Technology used
--HTML5
--CSS3
--JS
--Jquery
+- HTML5
+- CSS3
+- JS
+- Jquery
     -- nice-select
     -- owl carousel
     -- magnific popup
     -- scrollup
     -- skrollr
--Bootstrap
+- Bootstrap
