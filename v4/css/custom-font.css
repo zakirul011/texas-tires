@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Calvier';
+    src: url('./../fonts/text-font/Calvier-Bold.eot');
+    src: url('./../fonts/text-font/Calvier-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./../fonts/text-font/Calvier-Bold.woff2') format('woff2'),
+        url('./../fonts/text-font/Calvier-Bold.woff') format('woff'),
+        url('./../fonts/text-font/Calvier-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/text-font/Platform-Bold.eot');
+    src: url('./../fonts/text-font/Platform-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./../fonts/text-font/Platform-Bold.woff2') format('woff2'),
+        url('./../fonts/text-font/Platform-Bold.woff') format('woff'),
+        url('./../fonts/text-font/Platform-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/text-font/Platform-Medium.eot');
+    src: url('./../fonts/text-font/Platform-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./../fonts/text-font/Platform-Medium.woff2') format('woff2'),
+        url('./../fonts/text-font/Platform-Medium.woff') format('woff'),
+        url('./../fonts/text-font/Platform-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('./../fonts/text-font/Platform-Regular.eot');
+    src: url('./../fonts/text-font/Platform-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./../fonts/text-font/Platform-Regular.woff2') format('woff2'),
+        url('./../fonts/text-font/Platform-Regular.woff') format('woff'),
+        url('./../fonts/text-font/Platform-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

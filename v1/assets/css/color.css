@@ -1,0 +1,68 @@
+/*===== Primary Color =====*/
+
+/*===== Background Color =====*/
+.thm-bg,
+.thm-layer:before,
+.thm-btn::before,
+.menu-btn,
+.top-video-inner:before,
+.service-tab-nav ul.nav-tabs li.nav-item a.nav-link::after,
+.serv-img2:before,
+.work-btns > a:hover,
+.work-btns > a:focus,
+.work-box:before,
+.work-bg:before,
+.work-bg::after,
+.about-wrap:before,
+.price:before,
+.shop-img::before,
+.shop-img::after,
+.shop-bg2::before,
+.shop-bg2::after,
+.shop-box2:before,
+.discound-wrap > form .field label:after,
+.finance-application-imgs::before,
+.finance-application-imgs::after,
+.newsletter-inner > form:after,
+.newsletter-wrap::after,
+.office-address-caro ul.slick-dots li button:hover,
+.office-address-caro ul.slick-dots li button:focus,
+.office-address-caro ul.slick-dots li.slick-active button,
+.office-addres::after,
+.find-us-form-wrap:before,
+.social-links > a:hover,
+.social-links > a:focus,
+.close-menu-btn
+{
+	background-color: #f8f406;
+}
+
+/*===== Text Color =====*/
+.thm-clr,
+nav ul li:hover > a,
+nav ul li.active > a,
+nav ul li > a:focus,
+.feat-cap > h2,
+.join-btn,
+.work-info-inner > h3 a:hover,
+.work-info-inner > h3 a:focus,
+.shop-info > h3 a:hover,
+.shop-info > h3 a:focus,
+.shop-info2 > h3 a:hover,
+.shop-info2 > h3 a:focus,
+.office-address-info-list > li i,
+.office-address-info-list > li a:hover,
+.office-address-info-list > li a:focus,
+.widget ul li:hover > a,
+.widget ul li > a:focus,
+.copyright a:hover,
+.copyright a:focus
+{
+	color: #f8f406;
+}
+
+/*===== Border Color =====*/
+.thm-brd-clr
+{
+	border-color: #f8f406;
+}

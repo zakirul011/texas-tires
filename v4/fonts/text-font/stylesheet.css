@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Calvier';
+    src: url('Calvier-Bold.eot');
+    src: url('Calvier-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Calvier-Bold.woff2') format('woff2'),
+        url('Calvier-Bold.woff') format('woff'),
+        url('Calvier-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('Platform-Bold.eot');
+    src: url('Platform-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Platform-Bold.woff2') format('woff2'),
+        url('Platform-Bold.woff') format('woff'),
+        url('Platform-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('Platform-Medium.eot');
+    src: url('Platform-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Platform-Medium.woff2') format('woff2'),
+        url('Platform-Medium.woff') format('woff'),
+        url('Platform-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Platform';
+    src: url('Platform-Regular.eot');
+    src: url('Platform-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Platform-Regular.woff2') format('woff2'),
+        url('Platform-Regular.woff') format('woff'),
+        url('Platform-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
