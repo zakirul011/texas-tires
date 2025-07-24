@@ -7,7 +7,7 @@ frontend Project | Multiple versions of main homepage and configuration applicat
 - HTML5
 - CSS3
 - JS
-- Jquery
+- Jquery pugins
     - nice-select
     - owl carousel
     - magnific popup
